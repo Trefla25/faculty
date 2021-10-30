@@ -1,0 +1,11 @@
+1.Efectuați următoarele adunări în baza 2 și verificați rezultatele: 11001011+00011111; 11101100+10000000
+2.Efectuați următoarele scăderi în baza 2 și verificați rezultatele: 11001001-00011111; 11101100-10000000
+3.Efectuați următoarele înmulțiri în baza 2 și verificați rezultatele: 1100 * 0110; 0111 * 1011
+4.Efectuați următoarea împărțire în baza 2 și verificați rezultatul: 1100 / 0110
+(pe hârtie) Dacă a=114, b=41 și c=158 sunt numere fără semn, să se calculeze pe foaie rezultatul următoarelor operații: ~b, a&(b^c), (a|c)&b. Rezultatul se poate verifica și pe calculator, introducând numerele așa cum sunt date, în baza 10 și afișând rezultatul pe biți, cu funcția showBits
+(pe hârtie) Să se calculeze rezultatul expresiei: 01001011<<(01100101>>5)
+5.Faceți următoarele transformări, pentru numere cu semn:
+în baza 10: F16, 768
+în baza 2: -168, -478, -9A16, -2E16
+în baza 16: 100100002, 110010012, 100000002
+în baza 8: 100100002
